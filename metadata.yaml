@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9818'
     url: http://www.gutenberg.org/2009/agents/9818
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21274#The-American-Cyclops-the-Hero-of-New-Orleans-and-Spoiler-of-Silver-Spoons
 gutenberg_issued: '2007-05-02'
 gutenberg_type: Text
 identifiers:
